@@ -1,0 +1,11 @@
+const firstName = "Bonim";
+let lastName = "OUK";
+var age = 45;
+let language = JavaScript;
+let CreateYear = 1995;
+let isCaseSensitive = true;
+let price = "Name of the Wind";
+let author = "Patrick Rothfuss";
+let pageCount = 722;
+let bookmark = 456;
+let hasRead = true;
